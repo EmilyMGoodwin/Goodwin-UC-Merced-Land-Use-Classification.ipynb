@@ -1,7 +1,7 @@
 # Goodwin-UC-Merced-Land-Use-Classification.ipynb
 Completed as an honors-credit project in university course
 
-The UC Merced Land Use Dataset 21 class land use image dataset created for research purposes.
+The UC Merced Land Use Dataset is a 21-class land use image dataset, created for research purposes.
 
 There are 100 images for each of the following classes:
 
