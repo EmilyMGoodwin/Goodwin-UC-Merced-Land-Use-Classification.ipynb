@@ -4,7 +4,8 @@ Completed as an honors-credit project in university course
 The attached Jupyter Notebook file uses the following libraries, and more:
 - Pandas
 - Tensorflow and Keras
-- Sklearn, SGDClassifier, Cross_val_score, RandomForestClassifier and related librarie
+- Sklearn
+- SGDClassifier, Cross_val_score, RandomForestClassifier and related libraries
 - Rasterio and Show
 - Numpy
 - Matplotlib
